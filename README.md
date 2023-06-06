@@ -14,7 +14,7 @@ The app looks somthing like this in the device, you can see screenshorts.
 
 ## Features
 
-* Search Funcailati
+* Search Functionality
 * You can apply for Job.
 * You can see Job Details.
 
