@@ -1,5 +1,37 @@
-# JSearch-App
-This is a application, where you can search for real jobs and apply for it.
-<a href="https://www.youtube.com/watch?v=VIDEO_ID">
-  <img src="[https://img.youtube.com/vi/VIDEO_ID/0.jpg](https://in.video.search.yahoo.com/video/play;_ylt=Awrx.wYwFX9keWEKxRLmHAx.;_ylu=c2VjA3NyBHNsawN2aWQEZ3BvcwMy?p=3+minute+video&vid=c69e0fae3960d2747a0d72b1c66ff3d1&turl=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOVP.KT4S5o98o9B0dgVwActR0QHgFo%26pid%3DApi%26h%3D360%26w%3D480%26c%3D7%26rs%3D1&rurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DRK27RX54EJU&tit=Electric+-+%3Cb%3E3%3C%2Fb%3E+Minute+Countdown&c=1&sigr=0g8GNo0TV_6v&sigt=wW4eakWtIPi6&sigi=NXWcYctyeTe_&fr=p%3As%2Cv%3Av&h=360&w=480&l=190&age=1585163548&fr=mcafee&type=E211IN826G0&tt=b)" alt="Video Title" width="240" height="180" border="10" />
-</a>
+<h1 align="center"> JSearch App </h1> <br>
+
+## Introduction
+
+The app looks somthing like this in the device, you can see screenshorts.
+
+<div style="display: flex; justify-content: center;">
+  <img src="https://i.postimg.cc/rsJ0bfJW/Screenshot-2023-06-06-172331.png" width="200" style="margin-right: 10px;">
+  <img src="https://i.postimg.cc/zfKchh76/Screenshot-2023-06-06-172354.png" width="200" style="margin-right: 10px;">
+  <img src="https://i.postimg.cc/9fs7qx1t/Screenshot-2023-06-06-172413.png" width="200" style="margin-right: 10px;">
+  <img src="https://i.postimg.cc/CK8K9wHk/Screenshot-2023-06-06-172436.png" width="200" style="margin-right: 10px;">
+  <img src="https://i.postimg.cc/PqLcKc4L/Screenshot-2023-06-06-172257.png" width="200">
+</div>
+
+## Features
+
+* Search Funcailati
+* You can apply for Job.
+* You can see Job Details.
+
+## Build Process
+
+- Follow the guid to play with it locally.
+- Clone or download the repo
+- `npm` to install dependencies
+- `npm i` to link react-native dependencies
+- `npm start` to start the packager and run the app in the simulator
+
+## Expo link and QR code
+
+`Open in Expo app` : exp://exp.host/@ankitsunuwar/job-search?release-channel=default
+
+
+<div align="center">
+  <img src="https://i.postimg.cc/3wr77pGX/Screenshot-2023-06-06-175805.png" width="400" style="margin-right: 10px;">
+</div>
+
